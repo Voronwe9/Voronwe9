@@ -50,4 +50,4 @@
 ## 📫Для связи
 * Мой телеграмм [t.me/Voron9gg](https://t.me/Voron9gg)
 * e-mail **anton.barynin.dev@gmail.com**
-* [hh](https://hh.ru/applicant/resumes/view?resume=ed3e4696ff0b71b1380039ed1f394147624f48)
+* [hh](https://hh.ru/resume/144d191aff0e6dfd6a0039ed1f48634e377334)
