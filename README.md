@@ -12,13 +12,13 @@
 
 ### 🎓Мои сертификаты Нетология по курсу **Python-разработчик с нуля до middle**:
 
-* [Python](https://netology.ru/sharing/f3e3d67f88d047e1ecba0a3a9fa5b070?utm_source=social&utm_campaign=certificate_lms )
-* [GIT](https://netology.ru/sharing/37c2951329ab516f5b83fcc1c0dbdb56?utm_source=social&utm_campaign=certificate_lms )
-* [ООП и работа с API](https://netology.ru/sharing/f4c97be7091780e1387bc57b5231704b?utm_source=social&utm_campaign=certificate_lms )
-* [Базы данных для python-разработчика](https://netology.ru/sharing/a1c598ecde728243c8671a7ed66bcf39?utm_source=social&utm_campaign=certificate_lms )
-* [Профессиональная работа с Python](https://netology.ru/sharing/1fe2f049a78a9db13841fb49533184f9?utm_source=social&utm_campaign=certificate_lms )
-* [Django создание backend-приложений](https://netology.ru/sharing/a67d3fed711a7b70e508a84ccefa897d?utm_source=social&utm_campaign=certificate_lms )
-* [Python в веб-разработке](https://netology.ru/sharing/33ff4b0923ad79dcc225c125118bf75b?utm_source=social&utm_campaign=certificate_lms )
+* [Python](https://github.com/Voronwe9/Voronwe9/blob/main/Python.pdf)
+* [GIT](https://github.com/Voronwe9/Voronwe9/blob/main/Git.pdf)
+* [ООП и работа с API](https://github.com/Voronwe9/Voronwe9/blob/main/OOP.pdf)
+* [Базы данных для python-разработчика](https://github.com/Voronwe9/Voronwe9/blob/main/SQL.pdf)
+* [Профессиональная работа с Python](https://github.com/Voronwe9/Voronwe9/blob/main/python3.pdf)
+* [Django создание backend-приложений](https://github.com/Voronwe9/Voronwe9/blob/main/django.pdf)
+* [Python в веб-разработке](https://github.com/Voronwe9/Voronwe9/blob/main/web.pdf)
 ### 🎓Мои сертификаты [Stepik](https://stepik.org/users/689227198/profile?preview=true):
 * [Поколение Python:курс для продвинутых](https://stepik.org/cert/2617847)
 * [Функциональное программирование на Python]()
