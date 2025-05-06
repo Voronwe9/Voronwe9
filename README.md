@@ -47,6 +47,15 @@
 
 
 ## 📫Для связи
-* Мой телеграмм [t.me/Voron9gg](https://t.me/Voron9gg)
-* e-mail **anton.barynin.dev@gmail.com**
+<div id="badges">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Voron9gg" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:anton.barynin.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
