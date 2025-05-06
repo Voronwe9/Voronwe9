@@ -1,3 +1,10 @@
+<div>
+  <a href="https://github.com/Voronwe9" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Voronwe9&label=Profile%20Views&color=brightgreen&style=flat" alt="GitHub Profile Views"/>
+  </a>
+</div>
+
+
 <h1 align="center">Привет 👋, меня зовут Антон</h1>
 
 
