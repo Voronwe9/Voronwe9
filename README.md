@@ -74,7 +74,7 @@
 
 ## 📫Для связи
 <div id="badges">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="www.linkedin.com/in/anton-barynin-4a4549364" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Voron9gg" target="_blank">
