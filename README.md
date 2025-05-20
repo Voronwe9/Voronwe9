@@ -85,3 +85,4 @@
   </a>
 </div>
 
+[Резюме](https://github.com/Voronwe9/Voronwe9/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20v01.05%20%D0%91%D0%B0%D1%80%D1%8B%D0%BD%D0%B8%D0%BD%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD.pdf)
