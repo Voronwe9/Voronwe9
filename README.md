@@ -83,6 +83,7 @@
   <a href="mailto:anton.barynin.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://github.com/Voronwe9/Voronwe9/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20v01.05%20%D0%91%D0%B0%D1%80%D1%8B%D0%BD%D0%B8%D0%BD%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD.pdf">
+    <img src="https://img.shields.io/badge/HeadHunter-E63A3A?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HH.ru Badge"/>
+  </a>
 </div>
-
-[Резюме](https://github.com/Voronwe9/Voronwe9/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20v01.05%20%D0%91%D0%B0%D1%80%D1%8B%D0%BD%D0%B8%D0%BD%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD.pdf)
