@@ -22,7 +22,7 @@
 
 ---
 
-## 🧰 Основной стек
+## 🧰 Стек
 
 ### Backend
 
@@ -73,49 +73,47 @@
 
 ---
 
-## 💼 Опыт и направления работы
+## 💼 experience
 
-- Разработка backend-сервисов на Python
-- Проектирование и поддержка REST API
-- Работа с FastAPI, Django/DRF и Litestar
-- Интеграция внешних API и сервисов
-- Работа с PostgreSQL, SQLAlchemy, Redis и Celery
-- Разработка асинхронных сервисов с `asyncio`, `async/await`, `httpx`
-- Интеграция LLM API в backend-продукты
-- Prompt engineering и structured output
-- JSON Schema / Pydantic-валидация
-- Обработка ошибок, timeout, fallback-логика
-- Логирование, диагностика и production support
-- Docker, Linux, CI/CD, deployment
+- Разрабатывал и поддерживал backend-сервисы на Python для прикладных бизнес-задач: от проектирования API и структуры приложения до сопровождения в production
+- Реализовывал REST API на `FastAPI`, `Django/DRF` и `Litestar`, продумывал контракты, валидацию данных и сценарии интеграции с внешними сервисами
+- Строил backend-логику вокруг `PostgreSQL`, `SQLAlchemy`, `Redis` и `Celery`: работал с хранением данных, фоновыми задачами, очередями и прикладными workflow
+- Разрабатывал асинхронные сервисы и интеграции с использованием `asyncio`, `async/await` и `httpx`, включая обработку сетевых ошибок, timeout-сценариев и нестабильных внешних зависимостей
+- Участвовал в создании AI/LLM backend-функциональности для production-продукта: интегрировал LLM API, реализовывал structured output через `JSON Schema`, валидацию через `Pydantic`, guardrails, fallback-логику и постобработку ответов модели
+- Поддерживал качество backend-сервисов: настраивал `ruff`, писал и обновлял тесты для новых фич, проверял критичные пользовательские сценарии и снижал риск проблем после релизов
+- Настроил и поддерживаю production-процесс backend-сервисов: `Docker` / `Docker Compose`, миграции через `Alembic`, CI/CD-пайплайн, pre-release проверки и поставку изменений в production
 
 ---
 
-## 📌 Проекты
+## 📌 projects
 
 ### Production / commercial experience
+## EmTalk с сентября 2025 г.
+- [`Decision Matrix`](https://play.google.com/store/apps/details?id=org.emtalk.dm&pli=1) — коммерческий mobile product с микросервисной архитектурой. Участвовал в разработке backend-логики продукта, проектировании и реализации REST API для пользовательских сценариев, интеграции client-gate с auth-контуром и внутренними backend-сервисами.
+Реализовывал LLM-функциональность: работу со structured output, валидацию ответов модели через Pydantic / JSON Schema, fallback-логику, обработку нестабильных внешних API-запросов и ошибок интеграции.
+Также работал с авторизацией на базе Firebase без использования SDK: через прямую работу с токенами, JWT-валидацией и HTTP-интеграциями.  
+  `Python` · `Litestar` · `PostgreSQL` · `SQLAlchemy` · `REST API` · `LLM API` · `Pydantic` · `JSON Schema` · `httpx` · `JWT` · `Firebase`
 
-- Backend/gateway-функциональность для AI-driven decision-making продукта  
-  `Python` · `Litestar` · `Pydantic` · `httpx` · `REST API` · `LLM API` · `JSON Schema` · `CI/CD` · `Production Support`
+- [`Bret`](https://play.google.com/store/apps/details?id=com.bret&hl=ru) — коммерческий mobile product с микросервисной архитектурой. Реализовывал API-слой продукта, пользовательские и авторизационные сценарии, а также интеграцию между backend-сервисами через HTTP.
+Участвовал в разработке backend-процесса проверки платежей через Google Play Developer API: обработка purchase-токенов, проверка статуса подписок/покупок и связанная бизнес-логика на стороне backend.
+Работал с auth-контуром и Firebase без SDK: валидация токенов, прямые HTTP-запросы к внешним сервисам, обработка ошибок авторизации и интеграции.
+  `Python` · `Litestar` · `PostgreSQL` · `REST API` · `Google Play Developer API` · `httpx` · `JWT` · `Firebase`
 
 ---
 
-### Pet / учебные проекты
+### Pet projects
 
-- [Дипломный проект](https://github.com/Voronwe9/Diplom) — backend-приложение для автоматизации закупок.
-- [Телеграм-бот-будильник на основе Яндекс Погоды](https://github.com/Voronwe9/clock_bot.git).
 - [API Django](https://github.com/Voronwe9/-Django_chat) — веб-приложение для создания постов с комментариями.  
   Стек: `Python`, `Django`, `DRF`, `PostgreSQL`, `Swagger`, `pre-commit`.
 - [Flask проект](https://github.com/Voronwe9/Flask) — REST API для сайта объявлений: создание, редактирование и удаление объявлений.
 - [Парсинг hh.ru](https://github.com/Voronwe9/Scraping) — парсер вакансий с сохранением результата в JSON.
 - [Новостной сайт](https://github.com/Voronwe9/1/tree/master/models_list_displaying) — Django-приложение для новостного сайта.
-- [REST API сервис для апскейлинга изображений](https://github.com/Voronwe9/1/tree/master/celery) — сервис обработки изображений.  
-  Стек: `Flask`, `Celery`, `Docker`, `Redis`.
 
 ---
 
 ## 🎓 Сертификаты
 
-### Нетология — Python-разработчик
+### Python-разработчик
 
 - [Python](https://github.com/Voronwe9/Voronwe9/blob/main/Python.pdf)
 - [Git](https://github.com/Voronwe9/Voronwe9/blob/main/Git.pdf)
@@ -124,9 +122,6 @@
 - [Профессиональная работа с Python](https://github.com/Voronwe9/Voronwe9/blob/main/python3.pdf)
 - [Django: создание backend-приложений](https://github.com/Voronwe9/Voronwe9/blob/main/django.pdf)
 - [Python в веб-разработке](https://github.com/Voronwe9/Voronwe9/blob/main/web.pdf)
-
-### Stepik
-
 - [Поколение Python: курс для продвинутых](https://stepik.org/cert/2617847)
 
 ---
@@ -143,7 +138,7 @@
   <a href="mailto:anton.barynin.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/Voronwe9/Voronwe9/blob/main/%D0%91%D0%B0%D1%80%D1%8B%D0%BD%D0%B8%D0%BD%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD%20(3).pdf" target="_blank">
+  <a href="https://github.com/Voronwe9/Voronwe9/blob/main/resume_backend_ru.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
